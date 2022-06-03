@@ -1,5 +1,5 @@
 # PiicoDev® Splitter
-
+![](https://core-electronics.com.au/media/catalog/product/c/e/ce08535-piicodev-splitter.jpg)
 This is the repo for the Core Electronics [PiicoDev Splitter](https://core-electronics.com.au/catalog/product/view/sku/CE08535).
 
 
